@@ -11,6 +11,6 @@
         "vite": "^5.0.0"
     },
     "dependencies": {
-        "electron-pdf": "^20.0.0"
+        "electron-pdf": "^25.0.0"
     }
 }
